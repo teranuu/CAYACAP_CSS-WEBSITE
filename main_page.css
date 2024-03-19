@@ -1,0 +1,158 @@
+
+@media only screen and (max-width: 600px) {
+    body {
+
+        background: hsla(22, 100%, 78%, 1);
+
+        background: linear-gradient(90deg, hsla(22, 100%, 78%, 1) 0%, hsla(2, 78%, 62%, 1) 100%);
+        
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFB88E", endColorstr="#EA5753", GradientType=1 );
+}
+}
+
+body {
+
+    background: hsla(22, 100%, 78%, 1);
+
+    background: linear-gradient(90deg, hsla(22, 100%, 78%, 1) 0%, hsla(2, 78%, 62%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFB88E", endColorstr="#EA5753", GradientType=1 );
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Cardium A;
+  }
+
+.content{
+
+    transition: background-color 0.15s;
+
+}
+
+.contact{
+
+    transition: background-color 0.15s;
+
+}
+
+.content:hover {
+
+
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+
+
+}
+.contact:hover {
+
+
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+
+
+}
+.nav-menu{
+
+   margin-top: 30px;
+   border: 1px solid;
+   border-color: black;
+
+}
+
+.title-nav{
+
+    margin-left: 50px;
+    
+}
+
+
+.main-first{
+    
+    margin: 0;
+    text-align: center;
+    font-family: Cardium A;
+    font-weight: bold;
+    font-size: 65px;
+
+
+}
+
+.main-second{
+
+    font-family: Winden Alt W05 Regular;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 0;
+}
+
+.main-img{
+    border: 3px solid;
+    width: 550px;
+    display: inline-block;
+}
+
+.main-third{
+    
+    background-color: rgb(0, 140, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 280px;
+    cursor: pointer;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    transition: box-shadow 0.15s;
+    font-family: Winden Alt W05 Regular;
+
+}
+
+
+.main-third:hover{
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+}
+.title-bot{
+    
+    font-family: Cardium A;
+    font-size: 35px;
+    margin-bottom: 0;
+    margin-top: 160px;
+
+}
+
+.img-1 {
+
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0;
+}
+
+.content-link-button{
+
+ text-align: center;
+
+}

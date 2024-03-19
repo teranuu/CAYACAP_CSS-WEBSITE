@@ -1,0 +1,201 @@
+body{
+
+    background-color:#0D0C14 ;
+    opacity: 0.6;
+
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    font-size: 35px;
+    color: #5CB5AA;
+    text-align:center;
+
+}
+.highlight{
+
+    background-color: #5CB5AA;
+}
+.image{
+
+    text-align:center;
+
+}
+.name{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #0D0C14;
+    text-align: center;
+    background-color: #5CB5AA;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+.subject{
+    
+    font-family: 'Montserrat';
+    font-size: 23px;
+    color: #0D0C14;
+    text-align: center;
+    background-color: #5CB5AA;
+    padding-top: 5px;
+    padding-bottom: 60px;
+
+
+}
+.me{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5CB5AA;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.content1{
+   
+    font-family: 'Droid Sans';
+    font-size: 24px;
+    color: #5CB5AA;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.education{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5CB5AA;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.educ1, .educ3{
+
+    font-family: 'Droid Sans';
+    font-size: 24px;
+    color: #5CB5AA;
+    text-align: left;
+
+}
+.educ2, .educ4{
+
+    font-family: 'Droid Sans';
+    font-size: 24px;
+    color: #5CB5AA;
+    text-align: left;
+
+}
+.skill{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5CB5AA;
+    text-align: center;
+}
+.skillcontent{
+
+    font-family: 'Droid Sans';
+    font-size: 24px;
+    color: #5CB5AA;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  
+}
+.table1{
+
+    width: 100%;
+    border: hidden;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    background-color: #5CB5AA;
+
+
+}
+.table2{
+
+    width: 100%;
+    border: hidden;
+    margin-top: 40px;
+    margin-bottom: 25px;
+
+
+}
+ .table3{
+
+    width: 100%;
+    border: hidden;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    margin-left: -10px;
+    margin-right: 10px;
+    
+}
+.table4{
+
+    width: 100%;
+    border: hidden;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    margin-left: -10px;
+    margin-right: 10px;
+
+}
+.table5{
+
+    width: 100%;
+    border: hidden;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    margin-left: -10px;
+    margin-right: 10px;
+
+}
+.profile1{
+
+    padding-top: 25px;
+
+}
+.project{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5CB5AA;
+    text-align: center;
+
+
+}
+.projectcontent{
+
+
+    font-family: 'Droid Sans';
+    font-size: 24px;
+    color: #5CB5AA;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.inq{
+
+    font-family: 'Quattrocento';
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5CB5AA;
+    text-align: center;
+
+}
+.inq1{
+
+    font-family: 'Droid Sans';
+    font-size: 22px;
+    color: #5CB5AA;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
